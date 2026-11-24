@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "subsonic_server",
+  "name": "Navidrome / Subsonic",
+  "version": "1.0.0",
+  "category": "music_source",
+  "adapterId": "subsonic",
+  "minAppVersionCode": 8,
+  "configuration": {
+    "authType": "server_credentials"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "archive_org_video",
+  "name": "Internet Archive (Video)",
+  "version": "1.0.0",
+  "category": "video_source",
+  "adapterId": "archive_org",
+  "minAppVersionCode": 8,
+  "configuration": {
+    "authType": "none"
+  }
+}

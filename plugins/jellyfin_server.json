@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "jellyfin_server",
+  "name": "Jellyfin",
+  "version": "1.0.0",
+  "category": "video_source",
+  "adapterId": "jellyfin",
+  "minAppVersionCode": 8,
+  "configuration": {
+    "authType": "server_credentials"
+  }
+}

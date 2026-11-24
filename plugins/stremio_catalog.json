@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "stremio_catalog",
+  "name": "Stremio Catalog",
+  "version": "1.0.0",
+  "category": "video_source",
+  "adapterId": "stremio",
+  "minAppVersionCode": 8,
+  "configuration": {
+    "authType": "manifest_url"
+  }
+}

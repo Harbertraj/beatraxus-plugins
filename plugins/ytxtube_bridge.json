@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "ytxtube_bridge",
+  "name": "YTXTube",
+  "version": "1.0.0",
+  "category": "video_source",
+  "adapterId": "ytxtube",
+  "minAppVersionCode": 8,
+  "configuration": {
+    "authType": "none"
+  }
+}

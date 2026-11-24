@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "archive_org_music",
+  "name": "Internet Archive (Audio)",
+  "version": "1.0.0",
+  "category": "music_source",
+  "adapterId": "archive_org",
+  "minAppVersionCode": 8,
+  "configuration": {
+    "authType": "none"
+  }
+}

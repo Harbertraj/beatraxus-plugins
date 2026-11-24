@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "emby_server",
+  "name": "Emby",
+  "version": "1.0.0",
+  "category": "video_source",
+  "adapterId": "emby",
+  "minAppVersionCode": 8,
+  "configuration": {
+    "authType": "server_credentials"
+  }
+}

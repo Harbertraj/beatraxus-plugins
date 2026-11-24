@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "jamendo_community",
+  "name": "Jamendo Music",
+  "version": "1.0.0",
+  "category": "music_source",
+  "adapterId": "jamendo",
+  "minAppVersionCode": 8,
+  "configuration": {
+    "authType": "api_key"
+  }
+}

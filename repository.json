@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "name": "BeatRaxus Official Providers",
+  "description": "Declarative provider catalogue for BeatRaxus. No executable code.",
+  "plugins": [
+    {
+      "id": "jamendo_community",
+      "name": "Jamendo Music",
+      "version": "1.0.0",
+      "description": "Free music from independent artists. Needs a free Jamendo client ID.",
+      "category": "music_source",
+      "adapterId": "jamendo",
+      "manifestUrl": "plugins/jamendo_community.json"
+    },
+    {
+      "id": "archive_org_music",
+      "name": "Internet Archive (Audio)",
+      "version": "1.0.0",
+      "description": "Public-domain and freely licensed albums and concerts. No sign-in.",
+      "category": "music_source",
+      "adapterId": "archive_org",
+      "manifestUrl": "plugins/archive_org_music.json"
+    },
+    {
+      "id": "subsonic_server",
+      "name": "Navidrome / Subsonic",
+      "version": "1.0.0",
+      "description": "Stream from your own Navidrome, Airsonic or Gonic server.",
+      "category": "music_source",
+      "adapterId": "subsonic",
+      "manifestUrl": "plugins/subsonic_server.json"
+    },
+    {
+      "id": "archive_org_video",
+      "name": "Internet Archive (Video)",
+      "version": "1.0.0",
+      "description": "Public-domain films and concerts. No sign-in.",
+      "category": "video_source",
+      "adapterId": "archive_org",
+      "manifestUrl": "plugins/archive_org_video.json"
+    },
+    {
+      "id": "jellyfin_server",
+      "name": "Jellyfin",
+      "version": "1.0.0",
+      "description": "Movies, shows and music from your Jellyfin server.",
+      "category": "video_source",
+      "adapterId": "jellyfin",
+      "manifestUrl": "plugins/jellyfin_server.json"
+    },
+    {
+      "id": "emby_server",
+      "name": "Emby",
+      "version": "1.0.0",
+      "description": "Movies, shows and music from your Emby server.",
+      "category": "video_source",
+      "adapterId": "emby",
+      "manifestUrl": "plugins/emby_server.json"
+    },
+    {
+      "id": "stremio_catalog",
+      "name": "Stremio Catalog",
+      "version": "1.0.0",
+      "description": "Use any Stremio add-on manifest URL (direct-link streams only).",
+      "category": "video_source",
+      "adapterId": "stremio",
+      "manifestUrl": "plugins/stremio_catalog.json"
+    },
+    {
+      "id": "ytxtube_bridge",
+      "name": "YTXTube",
+      "version": "1.0.0",
+      "description": "Opens the separately installed YTXTube app.",
+      "category": "video_source",
+      "adapterId": "ytxtube",
+      "manifestUrl": "plugins/ytxtube_bridge.json"
+    }
+  ]
+}
