@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "youtube_audio",
+  "name": "YouTube Audio",
+  "version": "1.0.0",
+  "category": "music_source",
+  "adapterId": "youtube_audio",
+  "minAppVersionCode": 8,
+  "configuration": {
+    "authType": "none"
+  }
+}

@@ -74,6 +74,15 @@
       "category": "video_source",
       "adapterId": "ytxtube",
       "manifestUrl": "plugins/ytxtube_bridge.json"
+    },
+    {
+      "id": "youtube_audio",
+      "name": "YouTube Audio",
+      "version": "1.0.0",
+      "description": "Search YouTube Music songs and stream audio only. No sign-in.",
+      "category": "music_source",
+      "adapterId": "youtube_audio",
+      "manifestUrl": "plugins/youtube_audio.json"
     }
   ]
 }

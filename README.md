@@ -28,6 +28,7 @@ https://raw.githubusercontent.com/Harbertraj/beatraxus-plugins/main/repository.j
 | `emby_server` | video_source | `emby` | server_credentials |
 | `stremio_catalog` | video_source | `stremio` | manifest_url |
 | `ytxtube_bridge` | video_source | `ytxtube` | none |
+| `youtube_audio` | music_source | `youtube_audio` | none |
 
 ## Repository layout
 
